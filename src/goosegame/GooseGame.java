@@ -29,7 +29,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author vand5950
+ * @author Daniel Van
  */
 public class GooseGame extends JComponent implements ActionListener {
 
